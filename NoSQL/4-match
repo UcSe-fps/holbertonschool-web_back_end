@@ -1,0 +1,2 @@
+// this is to find specific things
+db.school.find({name : "Holberton school"}).pretty()
