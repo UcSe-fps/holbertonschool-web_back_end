@@ -1,0 +1,2 @@
+// I can also delete
+db.school.deleteMany({name: "Holberton school"})
