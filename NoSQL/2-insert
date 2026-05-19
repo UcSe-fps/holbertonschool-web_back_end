@@ -1,6 +1,6 @@
 // this is to create new collection
-db.school.insertOne(
+db.school.insert(
 	{
-		"name" : "Holberton school"
+		name : "Holberton school"
 	}
 )
