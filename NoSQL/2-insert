@@ -1,6 +1,6 @@
-// this is to create new db
-use my_db
-// this on the other hand for collection
-db.school
-// now insert smt
-db.school.insertOne({"name" : "Holberton school"})
+// this is to create new collection
+db.school.insertOne(
+	{
+		"name" : "Holberton school"
+	}
+)
